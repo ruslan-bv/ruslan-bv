@@ -1,4 +1,4 @@
-### こんにちは、僕はルスランです。よろしくお願いします。 👋
+### 👋 Hi there, I am Ruslan 👋 
 
 - 👩‍💻 Software developer building web applications with TypeScript/React/Vue.
 - ✍🏻 Experimenting with new technologies (frontend, backend, and anything in-between) in my free time.
