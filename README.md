@@ -14,4 +14,4 @@
 <code><img style="margin: 10px" src="https://api.iconify.design/logos:express.svg" alt="Express" height="30" title="Express.js" /></code>
 <code><img style="margin: 10px" src="https://api.iconify.design/logos/nestjs.svg" alt="NestJS" height="30" title="NestJS" /></code>
 <code><img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-mongo.svg" alt="Mongo" height="30" title="MongoDB" /></code>
-<code><img style="margin: 10px" src="https://api.iconify.design/material-ui.svg" alt="MUI" height="30" title="MUI" /></code>
+<code><img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-scss.svg" alt="SCSS" height="30" title="SCSS" /></code>
